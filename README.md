@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya</h1>
+<h1 align="center">Hi 👋,I'm Aditya</h1>
 <h3 align="center">Full Stack Web Developer | Building Modern Web Experiences</h3>
 
 ---
@@ -19,7 +19,7 @@
 ---
 
 ### 📂 Featured Projects
-- 🌐 Portfolio Website;aditya-engineering-web.netlify.app
+- 🌐 Portfolio Website
 - 🛒 E-commerce UI  
 - 📱 Responsive Landing Pages  
 
