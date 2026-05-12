@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,I'm Aditya</h1>
+<h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">Full Stack Web Developer | Building Modern Web Experiences</h3>
 
 ---
@@ -34,6 +34,7 @@
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=A987-D&show_icons=true)
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=A987-D&layout=compact)
+
 ---
 
 
